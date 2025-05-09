@@ -1,2 +1,2 @@
-# ver-gorsellest-rme
+# verıgorsellestırme
 sütun grafiği
